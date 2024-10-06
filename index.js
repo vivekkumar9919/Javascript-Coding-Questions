@@ -1,4 +1,6 @@
-//! How to empty an array?
+
+
+//! How to empty an array ?
 
 // *********************  Method 1 *********************//
 // var arr=[1,2,3,4];
@@ -1038,12 +1040,7 @@ function isPlainObject(value) {
   // Explain Closure in JavaScript with an example?
   // How to calculate the length of an associative array using JavaScript?
   
-  
-  
-  
-  
-  // How to find prime numbers in an Array?
-  // How to generate fibonacci series in JavaScript?
+
   
   
   
